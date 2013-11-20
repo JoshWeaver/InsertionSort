@@ -1,4 +1,7 @@
-public class insertionsort{
+//InsertionSort Program
+//Josh Weaver, 11/19/2013
+
+public class InsertionSort{
 
 	public static int[] array = {5,6,4,7,3,8,2,9,1};
 	public static int temp;

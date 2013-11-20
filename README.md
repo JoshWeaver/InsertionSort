@@ -1,2 +1,1 @@
-InsertionSort
-=============
+InsertionSort program made in Java
